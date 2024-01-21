@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gas Leakage Detection Project</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f0f0f0;
+        }
+
+        header {
+            background-color: #ffffff;
+            color: #000000;
+            text-align: center;
+            padding: 1em;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        section:hover {
+            transform: scale(1.02);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        h2 {
+            color: #2ecc71;
+            /* Green */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #ffffff;
+            color: #000000;
+            position: relative;
+            bottom: 0;
+            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: #2ecc71;
+            /* Green */
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li::before {
+            content: "\2022";
+            color: #3498db;
+            font-size: 1.5em;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
+        i.fas {
+            color: #f39c12;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1 style="font-size: 2em; margin: 0;">Gas Leakage Detection Project</h1>
+    </header>
+
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>
+            Indicates the danger to people in workplaces, factories, and homes. Gas leakage is detected using an Arduino
+            with an MQ2 Gas Sensor.
+        </p>
+    </section>
+
+    <section id="project-highlights">
+        <h2>Project Highlights</h2>
+        <ul>
+            <li>Gas leak detection systems can shut down the gas supply to minimize the risk of fire breakouts and
+                explosions.</li>
+            <li>LPG safety measures in kitchen gas cylinders.</li>
+            <li>Automatic LPG Gas Leakage Detection System using Arduino.</li>
+        </ul>
+    </section>
+
+    <section id="system-components">
+        <h2>Automatic LPG Gas Leakage Detection System – Parts List</h2>
+        <table>
+            <tr>
+                <th>Components</th>
+                <th>Quantity</th>
+            </tr>
+            <tr>
+                <td>Arduino Uno (MOD1)</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>12V, 2A adaptor</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>SIM900A GSM module (MOD2)</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>IC ULN2003 (IC1)</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>5V relay (R1)</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Buzzer (B1)</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>MQ6 or MQ2 sensor (S2)</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>MG996R high torque servo motor (S1)</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Breadboard</td>
+                <td>1</td>
+            </tr>
+        </table>
+    </section>
+
+    <!-- Add more sections as needed -->
+
+    <section id="gas-leakage-detection">
+        <h2>LPG Leakage Detection – Code</h2>
+        <p>
+            The Arduino IDE is used here to create the code. See <a href="#fig3">Fig. 3</a> for a source code snippet
+            defining the pins.
+        </p>
+        <div>
+            <!-- Placeholder for Figure 3 Image -->
+            <img src="https://via.placeholder.com/400" alt="Figure 3">
+        </div>
+    </section>
+
+    <section id="circuit-and-working">
+        <h2>Circuit and Working</h2>
+        <p>
+            In this proposed project, we have interfaced Arduino Uno with MQ2/MQ6 sensors, SIM900A GSM module, servo
+            motor, buzzer, and LED. The interfacing is done in such a way that whenever there is a gas leak due to any
+            fault, the MQ2/MQ6 gas sensor detects the leakage and sends a signal to Arduino Uno in the following manner:
+        </p>
+        <div>
+            <!-- Placeholder for Figure 4 Image -->
+            <img src="https://via.placeholder.com/400" alt="Figure 4">
+        </div>
+    </section>
+
+    <section id="construction-and-testing">
+        <h2>Construction and Testing</h2>
+        <p>
+            Assemble the circuit on a breadboard or general-purpose PCB based on the circuit shown in <a
+                href="#fig5">Fig. 5</a>. But do not forget to upload the source code into the Arduino Uno.
+        </p>
+        <div>
+            <!-- Placeholder for Figure 5 Image -->
+            <img src="https://via.placeholder.com/400" alt="Figure 5">
+        </div>
+    </section>
+
+    <!-- ... (remaining code) ... -->
+
+
+    <section id="advantages">
+        <h2>Advantages</h2>
+        <ul>
+            <li>Detection of gas leakage.</li>
+            <li>Automatic tripping of the regulator knob to the off position, which can be reset by the user.</li>
+            <li>Automatic indication and message facility.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Gas Leakage Detection Project <i class="fas fa-heart"></i></p>
+    </footer>
+</body>
+
+</html>
