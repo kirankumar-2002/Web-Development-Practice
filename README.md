@@ -6,41 +6,45 @@
 This repository gathers different web development projects and assignments from the SuperSimpleDev HTML CSS course.</p>
 
 <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">SuperSimpleDev</a>
+    
+---
 
-challenge1_Buttons_1_.html
+Here are the Few Assignments, I Practiced While Learning HTML & CSS.
 
-challenge2_Buttons_2_.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge1_Buttons_1_.html" >challenge1_Buttons_1_.html</a>
 
-challenge3_Hover_Active_.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge2_Buttons_2_.html" >challenge2_Buttons_2_.html</a>
 
-challenge4_CSS_Box_model_.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge3_Hover_Active_.html" >challenge3_Hover_Active_.html</a>
 
-challenge5_text_box_.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge4_CSS_Box_model_.html" >challenge4_CSS_Box_model_.html</a>
 
-challenge6_1_HTML_Structure.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge5_text_box_.html" >challenge5_text_box_.html</a>
 
-challenge6_2_CSS.css
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge6_1_HTML_Structure.html" >challenge6_1_HTML_Structure.html</a>
 
-challenge6_2_HTML.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge6_2_CSS.css" >challenge6_2_CSS.css</a>
 
-challenge7_1_input_and_inline.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge6_2_HTML.html" >challenge6_2_HTML.html</a>
 
-challenge8_display_and Inline_block.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge7_1_input_and_inline.html" >challenge7_1_input_and_inline.html</a>
 
-challenge9_div_Element.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge8_display_and Inline_block.html" >challenge8_display_and Inline_block.html</a>
 
-challenge10_layouts_vertical_&_horizontal.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge9_div_Element.html" >challenge9_div_Element.html</a>
 
-challenge11_Grid.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge10_layouts_vertical_&_horizontal.html" >challenge10_layouts_vertical_&_horizontal.html</a>
 
-challenge12_flex-box.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge11_Grid.html" >challenge11_Grid.html</a>
 
-challenge13_Nested_flexbox.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge12_flex-box.html" >challenge12_flex-box.html</a>
 
-challenge14_b.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge13_Nested_flexbox.html" >challenge13_Nested_flexbox.html</a>
 
-challenge14_position.html
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge14_b.html" >challenge14_b.html</a>
 
+<a href="https://kirankumar-2002.github.io/Web-Development-Practice/challenge14_position.html" >challenge14_position.html</a>
+    
 ---
 
 ## Resources
