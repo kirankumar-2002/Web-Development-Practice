@@ -7,48 +7,39 @@ This repository gathers different web development projects and assignments from 
 
 <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">SuperSimpleDev</a>
 
+challenge1_Buttons_1_.html
 
----
+challenge2_Buttons_2_.html
 
-## Topics
+challenge3_Hover_Active_.html
 
-- [x] Intro 
+challenge4_CSS_Box_model_.html
 
-- [x] HTML Basics
+challenge5_text_box_.html
 
-- [x] CSS Basics
+challenge6_1_HTML_Structure.html
 
-- [x] Hovers, Transitions, Shadows
+challenge6_2_CSS.css
 
-- [x] Chrome DevTools & CSS Box Model
+challenge6_2_HTML.html
 
-- [x] Text Styles
+challenge7_1_input_and_inline.html
 
-- [x] The HTML Structure
+challenge8_display_and Inline_block.html
 
-- [x] Images and Text Boxes
+challenge9_div_Element.html
 
-- [x] CSS Display Property
+challenge10_layouts_vertical_&_horizontal.html
 
-- [x] The div Element
+challenge11_Grid.html
 
-- [x] Nested Layouts Technique
+challenge12_flex-box.html
 
-- [x] CSS Grid
+challenge13_Nested_flexbox.html
 
-- [x] Flexbox
+challenge14_b.html
 
-- [x] Nested Flexbox
-
-- [x] CSS Position
-
-- [x] Position Absolute and Relative
-
-- [x] Finish the Project
-
-- [x] More CSS Features
-
-- [x] Outro
+challenge14_position.html
 
 ---
 
