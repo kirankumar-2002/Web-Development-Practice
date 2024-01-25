@@ -47,6 +47,5 @@ challenge14_position.html
 
 * [Tutorial](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 * [Visual Studio Code](https://code.visualstudio.com/download)
-* [Webstorm](https://www.jetbrains.com/webstorm/)
 
 ---
